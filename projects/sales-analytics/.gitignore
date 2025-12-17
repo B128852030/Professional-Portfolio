@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: VS Code settings
+.vscode/

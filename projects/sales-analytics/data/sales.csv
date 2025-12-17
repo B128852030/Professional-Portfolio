@@ -1,0 +1,8 @@
+order_id,order_date,customer,region,product,quantity,price
+1,2024-01-05,John Smith,NY,Keyboard,2,50
+2,2024-01-06,Alice Brown,CA,Mouse,1,25
+3,2024-02-01,Chris Lee,NY,Monitor,1,300
+4,2024-02-03,Maria Garcia,TX,Laptop,1,900
+5,2024-02-15,John Smith,NY,Mouse,2,25
+6,2024-03-01,Alice Brown,CA,Keyboard,1,50
+7,2024-03-10,Chris Lee,NY,Laptop,1,950
