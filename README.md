@@ -1,6 +1,7 @@
-# Brandon Griffith – Professional Portfolio & Letters of Recommendation
 
-Welcome to my **Professional Portfolio and Letters of Recommendation** repository. This repository showcases my academic achievements, professional experience, technical projects, and letters of recommendation to provide a comprehensive overview of my skills and capabilities in cybersecurity, technology, and operations management.
+Brandon Griffith – Professional Portfolio
+
+Welcome to my Professional Portfolio repository. This repository showcases my academic achievements, professional experience, technical projects, and letters of recommendation to provide a comprehensive overview of my skills and capabilities in cybersecurity, technology, and operations management.
 
 ---
 
